@@ -1,0 +1,5 @@
+{
+    "posts": [
+        {"id": 1, "title": "Trabalho Crud", "author": "Professor Paulo Sérgio", "content": "...passei..."}
+    ]
+}
